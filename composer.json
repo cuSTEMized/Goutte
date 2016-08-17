@@ -1,5 +1,5 @@
 {
-    "name": "fabpot/goutte",
+    "name": "custemized/goutte",
     "type": "application",
     "description": "A simple PHP Web Scraper",
     "keywords": ["scraper"],
